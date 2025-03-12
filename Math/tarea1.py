@@ -1,4 +1,5 @@
-#programa que cualcula las señales continuas en el tiempo de las siguentes funciones
+
+#programa que cualcula las senales continuas en el tiempo de las siguentes funciones
 #defimos pi = math.pi = 3.14.1592653589793
 #Tomando en cuenta que w = 2*pi*frec 
 #   f(t)=A*sin(w*t + o)     =  A*sin((2*pi*frec)*t + o) 
