@@ -1,1 +1,1 @@
-#Practicas con libreriass Matematicas
+# Python Practices using Math libraries and Plot
